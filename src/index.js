@@ -5,7 +5,6 @@ import ReactDOM from 'react-dom';
 class MovieCard extends React.Component {
   render() {
     return (
-      return (
       <div className="movie-card">
         <img  
           src={this.props.poster} 
